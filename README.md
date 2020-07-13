@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *tippy*
 
-**Name of your app** is a tip calculator application for iOS.
+**tippy** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Nick**
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## User Stories
 
@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap](http://g.recordit.co/9h1MmFldW6.gif).
 
 ## Notes
 
